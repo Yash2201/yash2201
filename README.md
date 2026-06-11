@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Currently work at omnexatechnolabls<br>i worked on this technologies MERN, PHP, LARAVEL, codeigniter, MySQL, JavaScript<br>I'm Currently Learning GO Language<br>I have completed a BCA degree in Computer Science.
+I Currently work at Success.ai<br>i worked on this technologies MERN, PHP, LARAVEL, codeigniter, MySQL, JavaScript<br>I'm Currently Learning GO Language<br>I have completed a BCA degree in Computer Science.
 
 
 ## 🌐 Socials:
