@@ -1,5 +1,22 @@
 # 💫 About Me:
-I Currently work at Success.ai<br>i worked on this technologies MERN, PHP, LARAVEL, codeigniter, MySQL, JavaScript<br>I'm Currently Learning GO Language<br>I have completed a BCA degree in Computer Science.
+Hi, I'm Yash Joshi 👋
+
+Full Stack Engineer with 4.5+ years of experience building SaaS products, scalable backend systems, AI-powered platforms, and modern web applications.
+
+⚡ Tech Stack: React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Laravel, Docker
+
+🚀 Built:
+• AI-powered outreach platforms
+• White-label SaaS products
+• Email deliverability & verification systems
+• CRM & workflow automation integrations
+• Real-time communication platforms
+• No-code/low-code solutions
+
+Passionate about scalable architecture, backend engineering, system design, and building products that solve real business problems.
+
+Currently learning Go and deepening my expertise in distributed systems and production-grade software architecture.
+
 
 
 ## 🌐 Socials:
